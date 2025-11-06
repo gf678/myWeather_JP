@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "私、雪が好きなんだ。だから明日も雪、降らないかな〜 君はどう？",
+      "emoX": -2.57,
+      "emoY": 1.9,
+      "poseX": 0.686,
+      "poseY": 0.107,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

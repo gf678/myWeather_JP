@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "おはよう〜！雪が降ってるよ？ 朝から綺麗だね〜",
+      "emoX": -2.57,
+      "emoY": 1.9,
+      "poseX": -0.58,
+      "poseY": -0.547,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

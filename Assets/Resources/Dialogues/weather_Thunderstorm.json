@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "び、びっくりなんてしてないよ！してないったら！",
+      "emoX": -2.49,
+      "emoY": -2.4,
+      "poseX": 0.613,
+      "poseY": 0.487,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

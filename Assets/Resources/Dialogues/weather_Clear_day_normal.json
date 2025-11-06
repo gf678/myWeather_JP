@@ -1,0 +1,14 @@
+{
+"dialogues":[
+    {
+      "speaker": "ふゆこ",
+      "text": "天気もいいし、一緒にどこか行こうか？",
+      "emoX": -3.58,
+      "emoY": 0,
+      "poseX": 0.686,
+      "poseY": 0.107,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

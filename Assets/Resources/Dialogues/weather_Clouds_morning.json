@@ -1,0 +1,14 @@
+{
+"dialogues":[
+    {
+      "speaker": "ふゆこ",
+      "text": "朝なのに曇ってるね…。早く晴れるといいね、ね？",
+      "emoX": -1.4,
+      "emoY": 2.66,
+      "poseX": 0.38,
+      "poseY": -0.613,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

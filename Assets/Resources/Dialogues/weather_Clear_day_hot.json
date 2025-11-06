@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "あっつい…暑くて干からびそう…動いてないのに暑いよ~…",
+      "emoX": -2.49,
+      "emoY": -2.4,
+      "poseX": -0.387,
+      "poseY": -0.64,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

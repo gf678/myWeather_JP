@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "雨が降ってるよ。 外に出ないでお部屋でゆっくりしよ？",
+      "emoX": -0.23,
+      "emoY": 3.49,
+      "poseX": 0.38,
+      "poseY": -0.613,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

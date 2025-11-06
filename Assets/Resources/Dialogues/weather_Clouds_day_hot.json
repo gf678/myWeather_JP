@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "もう〜曇ってるのに暑いとか反則でしょ〜",
+      "emoX": -2.69,
+      "emoY": -4.88,
+      "poseX": 0.127,
+      "poseY": -0.633,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "夜空がきれいだね。 晴れてて星もよく見えるよ〜 お日さまが気持ちいいね〜。おやすみ〜。",
+      "emoX": -0.81,
+      "emoY": 2.63,
+      "poseX": -0.52,
+      "poseY": 0.646,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

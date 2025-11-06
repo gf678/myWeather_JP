@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "雲を吹き飛ばしてお日さま出したら、ちょっとはあったかくなるかな？",
+      "emoX": 0.83,
+      "emoY": 0.94,
+      "poseX": -0.067,
+      "poseY": 0.673,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

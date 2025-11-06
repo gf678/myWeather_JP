@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "おはよう〜！朝からいい天気だね〜 今日はなにしてるの？",
+      "emoX": -0.15,
+      "emoY": 1.57,
+      "poseX": -0.666,
+      "poseY": 0.2,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

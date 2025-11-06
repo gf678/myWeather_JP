@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "晴れてるけど、少し寒いかも。寒かったら抱きしめてあげるよ。",
+      "emoX": -0.23,
+      "emoY": 3.49,
+      "poseX": -0.653,
+      "poseY": 0.013,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

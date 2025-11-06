@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "夜もまだ曇ってるね。 少し肌寒いかも〜",
+      "emoX": -0.86,
+      "emoY": 1.28,
+      "poseX": -0.626,
+      "poseY": -0.36,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

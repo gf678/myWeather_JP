@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "もう遅いのに、まだ雪が降ってるね。明日まで降ったら嬉しいな〜",
+      "emoX": -0.18,
+      "emoY": 2.69,
+      "poseX": -0.666,
+      "poseY": 0.487,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

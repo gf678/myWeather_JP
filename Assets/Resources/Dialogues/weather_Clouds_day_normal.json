@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "曇ってるし、ちょっと昼寝しようかな。",
+      "emoX": 0.82,
+      "emoY": 2.53,
+      "poseX": 0.66,
+      "poseY": -0.027,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

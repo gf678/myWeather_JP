@@ -1,0 +1,159 @@
+{
+  "dialogues": [
+    {
+      "id": "start",
+      "speaker": "ふゆこ",
+      "text": "やっほー、今なにしてるの？",
+      "emoX": -0.15,
+      "emoY": 1.57,
+      "poseX": -0.52,
+      "poseY": 0.646,
+      "hasChoices": true,
+      "choices": [
+        { "text": "何もしてない。", "next": "tzukiau" },
+        { "text": "今、君を見ているよ。", "next": "hazukasi" }
+      ]
+    },
+    {
+      "id": "tzukiau",
+      "speaker": "ふゆこ",
+      "text": "そうかな〜 じゃあ、ちょっと付き合ってくれる？",
+      "emoX": -3.58,
+      "emoY": 0,
+      "poseX": 0.38,
+      "poseY": -0.613,
+      "hasChoices": true,
+      "choices": [
+        { "text": "いいよ。", "next": "tzukiau1" },
+        { "text": "今、ちょっと忙しい", "next": "tzukiau2" }
+      ]
+    },
+    {
+      "id": "tzukiau1",
+      "speaker": "ふゆこ",
+      "text": "君は何がしたいの？",
+      "emoX": -0.15,
+      "emoY": 1.57,
+      "poseX": 0.653,
+      "poseY": -0.42,
+      "hasChoices": true,
+      "choices": [
+        { "text": "映画でも見ようか？", "next": "tzukiau1-1" },
+        { "text": "ご飯でも食べようか？", "next": "tzukiau1-2" }
+      ]
+    },
+    {
+      "id": "tzukiau1-1",
+      "speaker": "ふゆこ",
+      "text": "いいね〜 楽しみ~",
+      "emoX": -0.15,
+      "emoY": 1.57,
+      "poseX": 0.653,
+      "poseY": -0.247,
+      "hasChoices": false,
+      "choices": [],
+      "isEnd": true
+    },
+    {
+      "id": "tzukiau1-2",
+      "speaker": "ふゆこ",
+      "text": "うん！すっごくいいね、お腹すいてたところなんだ〜",
+      "emoX": -0.15,
+      "emoY": 1.57,
+      "poseX": -0.387,
+      "poseY": -0.64,
+      "hasChoices": false,
+      "choices": [],
+      "isEnd": true
+    },
+    {
+      "id": "tzukiau2",
+      "speaker": "ふゆこ",
+      "text": "え〜、なんで忙しいの？忙しくなかったらダメなの？",
+      "emoX": 3.3,
+      "emoY": 2.51,
+      "poseX": 0.653,
+      "poseY": -0.247,
+      "hasChoices": true,
+      "choices": [
+        { "text": "ごめんね？", "next": "tzukiau2-1" }
+      ]
+    },
+    {
+      "id": "tzukiau2-1",
+      "speaker": "ふゆこ",
+      "text": "ま、しょうがないよね。次に断ったら怒るからね？",
+      "emoX": -0.23,
+      "emoY": 3.49,
+      "poseX": 0.187,
+      "poseY": 0.673,
+      "hasChoices": false,
+      "choices": [],
+      "isEnd": true
+    },
+    {
+      "id": "hazukasi",
+      "speaker": "ふゆこ",
+      "text": "えっ、わ、私を見てる！？ なんで？",
+      "emoX": 2.15,
+      "emoY": 0.72,
+      "poseX": 0.613,
+      "poseY": 0.487,
+      "hasChoices": true,
+      "choices": [
+        { "text": "ふゆこはかわいいね。", "next": "hazukasi1" },
+        { "text": "ごめんね？", "next": "hazukasi2" }
+      ]
+    },
+    {
+      "id": "hazukasi1",
+      "speaker": "ふゆこ",
+      "text": "恥ずかしいから、やめて？",
+      "emoX": 2.22,
+      "emoY": 2.48,
+      "poseX": 0.674,
+      "poseY": 0.24,
+      "hasChoices": true,
+      "isEnd": true,
+      "choices": []
+    },
+    {
+      "id": "hazukasi2",
+      "speaker": "ふゆこ",
+      "text": "いや、別に謝るほどじゃないけど… なに？",
+      "emoX": 3.63,
+      "emoY": 0.18,
+      "poseX": 0.658,
+      "poseY": -0.114,
+      "hasChoices": true,
+      "choices": [
+        { "text": "ただ、話したかっただけだよ。", "next": "hazukasi2-1" },
+        { "text": "べつに〜", "next": "hazukasi2-2" }
+      ]
+    },
+    {
+      "id": "hazukasi2-1",
+      "speaker": "ふゆこ",
+      "text": "なに、それだったの？それならいつでもいいよ！",
+      "emoX": -0.15,
+      "emoY": 1.57,
+      "poseX": -0.713,
+      "poseY": 0.366,
+      "hasChoices": true,
+      "isEnd": true,
+      "choices": []
+    },
+    {
+      "id": "hazukasi2-2",
+      "speaker": "ふゆこ",
+      "text": "なにそれ〜",
+      "emoX": 2.74,
+      "emoY": -0.19,
+      "poseX": 0,
+      "poseY": 0,
+      "hasChoices": true,
+      "isEnd": true,
+      "choices": []
+    }
+  ]
+}

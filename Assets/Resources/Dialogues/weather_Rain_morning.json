@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "おはよう〜。朝から雨だね。外に出る時は気をつけてね。",
+      "emoX": -1.61,
+      "emoY": 4.45,
+      "poseX": -0.52,
+      "poseY": 0.646,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}

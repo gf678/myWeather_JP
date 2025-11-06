@@ -1,0 +1,14 @@
+{
+  "dialogues": [
+    {
+      "speaker": "ふゆこ",
+      "text": "雨の音が落ち着くね… ゆっくり休もう？",
+      "emoX": -3.52,
+      "emoY": -0.08,
+      "poseX": -0.666,
+      "poseY": 0.487,
+      "hasChoices": false,
+      "choices": []
+    }
+  ]
+}
